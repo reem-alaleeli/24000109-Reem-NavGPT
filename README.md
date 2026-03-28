@@ -107,20 +107,6 @@ Action: move forward
 - Simplified success metric (not full SPL)
 - No full simulator integration
 
-## Repository Structure
-
-NavGPT-Reproducibility/
-├── NavGPT.ipynb
-├── key_cited_papers/
-├── datasets/
-│ └── R2R/
-├── NavGPT/
-│ └── nav_src/
-├── results/
-├── figures/
-├── logs/
-└── README.md
-
 ## ▶️ How to Run
 
 ### 1. Setup
