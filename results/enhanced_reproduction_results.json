@@ -1,0 +1,23 @@
+[
+  {
+    "run": 1,
+    "seed": 0,
+    "SR": 93.33,
+    "success": 28,
+    "total": 30
+  },
+  {
+    "run": 2,
+    "seed": 1,
+    "SR": 93.33,
+    "success": 28,
+    "total": 30
+  },
+  {
+    "run": 3,
+    "seed": 2,
+    "SR": 93.33,
+    "success": 28,
+    "total": 30
+  }
+]
