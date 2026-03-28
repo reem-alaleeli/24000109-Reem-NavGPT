@@ -111,11 +111,11 @@ Action: move forward
 
 NavGPT-Reproducibility/
 ├── NavGPT.ipynb
-├── Key cited papers
+├── "Key cited papers"/
 ├── datasets/
-│ └── R2R/
+│   └── R2R/
 ├── NavGPT/
-│ └── nav_src/
+│   └── nav_src/
 ├── results/
 ├── figures/
 ├── logs/
