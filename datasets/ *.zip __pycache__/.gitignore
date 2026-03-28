@@ -1,5 +1,0 @@
-datasets/
-*.zip
-__pycache__/
-*.pyc
-.env
